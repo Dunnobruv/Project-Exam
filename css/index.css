@@ -1,0 +1,31 @@
+.bg-cyan {
+    background-color: #239BD8;
+}
+
+.txt1-cyan {
+    color: #239BD8;
+}
+
+.txt2-color {
+    color: #434343;
+}
+
+.txt3-color {
+    color: #7C8DB0;
+}
+
+.txt4-color {
+    color:mediumseagreen;
+}
+
+.txt5-color {
+    color: #A1A1A1;
+}
+
+.border {
+    border-top: #A1A1A1;
+}
+
+.border-b {
+    border-bottom: white;
+}
